@@ -38,4 +38,5 @@ iperf3
 ethtool
 ip-full
 zram-swap
-
+kmod-fs-ksmbd
+kmod-nls-utf8
