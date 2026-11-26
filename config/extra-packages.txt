@@ -18,6 +18,7 @@ kmod-fs-ntfs3
 kmod-nls-utf8
 kmod-nls-cp437
 kmod-nls-iso8859-1
+kmod-fs-ksmbd
 
 # --- USB network adapters / phone tethering ---
 kmod-usb-net-cdc-ether
@@ -31,6 +32,7 @@ kmod-wireguard
 kmod-tun
 kmod-zram
 kmod-nat46
+kmod-nf-conntrack-netlink
 
 # --- IPv4/IPv6 transition (464XLAT) ---
 464xlat
